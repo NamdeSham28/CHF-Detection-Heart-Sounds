@@ -167,5 +167,5 @@ CHF-Detection-Heart-Sounds/
 
 ## Author
 
-Final Year Engineering Project
+Engineering Project
 Machine Learning and Deep Learning-based CHF Detection System
